@@ -1,2 +1,4 @@
 *.ovpn
 result
+.direnv/
+!.direnv/.keep

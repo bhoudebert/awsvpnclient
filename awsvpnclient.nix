@@ -9,7 +9,7 @@
 
 buildGoModule rec {
   pname = "awsvpnclient";
-  version = "b9ea37937a3f4ca6a6442691886a108c49bab185";
+  version = "bc3df0c730a4b27d34dfce9f843f87ee611cbb38";
 
   src = fetchFromGitHub {
     owner = "ajm113";
